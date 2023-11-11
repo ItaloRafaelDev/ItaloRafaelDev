@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
  -🔭 Atualmente estou trabalhando em [Desenvolvimento JavaScript - 100 projetos](https://github.com/)
 
