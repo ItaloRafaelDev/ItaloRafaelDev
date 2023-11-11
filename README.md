@@ -6,7 +6,7 @@
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
- -🔭 Atualmente estou trabalhando em [Meta 100 projetos JavaScript](https://github.com/ItaloRafaelDev/Projetos-JavaScript)
+ -🔭 Atualmente estou trabalhando em [100 projetos JavaScript](https://github.com/ItaloRafaelDev/Projetos-JavaScript)
 
 - 🌱 Atualmente estou aprendendo **Desenvolvimento Full Stack**
 
