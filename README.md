@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=250ce8&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f0f1&&size=35&center=true&vCenter=true&width=1000&lines=Olá+Meu+nome+é+Ítalo+Rafael;Eu+Tenho+23+anos;Eu+do+Brasil;Desenvolvedor+Web;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f0f1&&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ítalo+Rafael;Eu+Tenho+23+anos;Eu+sou+Brasileiro;Desenvolvedor+Web;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
