@@ -1,32 +1,101 @@
+<!-- BANNER — substituiremos pelo final quando a imagem estiver pronta -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=140&section=header&text=Ítalo%20Rafael%20•%20Full%20Stack%20Developer&fontSize=32&fontColor=7A3BE2&animation=fadeIn"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=250ce8&height=120&section=header"/>
+<!-- FRASE ANIMADA -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=7A3BE2&size=32&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Ítalo+Rafael;Full+Stack+Developer;Apaixonado+por+Tecnologia;Seja+bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f5f0f1&&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Ítalo+Rafael;Tenho+24+anos;Sou+Brasileiro;Desenvolvedor+Web;Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+---
 
+# 👨‍💻 Sobre mim
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+- 🚀 Desenvolvedor **Full Stack**
+- 💼 Criador da coleção **100 Projetos JavaScript**
+- 🧠 Estudando tecnologias modernas e arquitetura de sistemas
+- 💬 Posso ajudar com **JavaScript, PHP, Node, Laravel, APIs, Docker, UI/UX**
+- 🌎 Local: São Paulo – Brasil  
+- 📩 Contato: **italorafaelsilva20@gmail.com**
 
- -🔭 Atualmente estou trabalhando em [100 projetos JavaScript](https://github.com/ItaloRafaelDev/Projetos-JavaScript)
+---
 
-- 🌱 Atualmente estou aprendendo **Desenvolvimento Full Stack**
+# 🌐 Socials
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/ItaloRafaelDev](https://github.com/ItaloRafaelDev)
+[![Instagram](https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/ital0siilva/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/italo-rafael-/)
 
-- 💬 Pergunte-me sobre **Desenvolvimento Full Stack**
+---
 
-- 📫 Como entrar em contato comigo  **italorafaelsilva20@gmail.com**
+# ⚡ KPIs de Performance (Automáticos)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ital0siilva/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/italo-rafael-/) 
+<div align="center">
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=for-the-badge&logo=webflow&logoColor=white)
+| Métrica | Resultado |
+|--------|-----------|
+| **Commits nos últimos 12 meses** | ![](https://img.shields.io/github/commit-activity/y/ItaloRafaelDev?color=7A3BE2) |
+| **Repositórios Públicos** | ![](https://img.shields.io/badge/Repos-`![repos](https://img.shields.io/github/repo-count/ItaloRafaelDev?color=7A3BE2)` ) |
+| **Contribuições externas** | ![](https://img.shields.io/github/contributions/ItaloRafaelDev?color=7A3BE2) |
+| **Estrelas Recebidas** | ![](https://img.shields.io/github/stars/ItaloRafaelDev?style=flat&color=7A3BE2) |
 
-# 📊 GitHub Stats:
-<div align="center">  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ItaloRafaelDev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRafaelDev&layout=compact&theme=buefy&hide_border=true" /></a>
 </div>
 
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🚀 Tech Stack (Tema Dark)
+
+## 🔹 **Linguagens**
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=777BB4)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+## 🔹 **Frameworks e Ferramentas**
+![Laravel](https://img.shields.io/badge/Laravel-111?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Docker](https://img.shields.io/badge/Docker-111?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05033)
+![Linux](https://img.shields.io/badge/Linux-111?style=for-the-badge&logo=linux&logoColor=FCC624)
+
+## 🔹 **Design / Gestão**
+![Figma](https://img.shields.io/badge/Figma-111?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Trello](https://img.shields.io/badge/Trello-111?style=for-the-badge&logo=trello&logoColor=026AA7)
+![Jira](https://img.shields.io/badge/Jira-111?style=for-the-badge&logo=jira&logoColor=0052CC)
+
+---
+
+# 📊 GitHub Analytics (Tema Dark Avançado)
+
+<div align="center">
+
+## 🔥 Streak  
+<img height="180em" src="https://streak-stats.demolab.com?user=ItaloRafaelDev&theme=tokyonight&mode=weekly&hide_border=true"/>
+
+## 📈 Estatísticas Gerais  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ItaloRafaelDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+
+## 🌎 Linguagens Mais Usadas  
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloRafaelDev&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📉 Gráfico de Contribuições (Dark Neon)
+
+<div align="center">
+  
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# ✍️ Dev Quote
+
+<div align="center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0d0d0d&height=120&section=footer"/>
